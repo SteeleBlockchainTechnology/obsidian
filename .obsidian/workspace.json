@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documentation/White Paper.md",
+                "file": "Documentation/Legal & Regulatory Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "White Paper"
+              "title": "Legal & Regulatory Notes"
             }
           }
         ],
@@ -197,8 +197,9 @@
   },
   "active": "c0c21c24c4449555",
   "lastOpenFiles": [
-    "Documentation/White paper notes.md",
     "Documentation/White Paper.md",
+    "Documentation/Legal & Regulatory Notes.md",
+    "Documentation/White paper notes.md",
     "Documentation/White Paper RD.pdf",
     "Documentation/White Paper.pdf",
     "~$ite Paper.pdf",
