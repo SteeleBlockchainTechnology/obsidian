@@ -1,4 +1,4 @@
-Looking at your [[white paper]], there are several elements that could be added or enhanced to make it more comprehensive and compelling:
+Looking at your [[White Paper]], there are several elements that could be added or enhanced to make it more comprehensive and compelling:
 
 1. **Specific Market Research Data**: The "[X] billion by 2025" placeholder needs actual market figures with cited sources to establish credibility.
 2. **Technical Details of the MCP Protocol**: While mentioned throughout, there's limited explanation of how the Model Context Protocol actually works technically.
