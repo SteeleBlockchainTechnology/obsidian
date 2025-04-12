@@ -1,5 +1,28 @@
 # Vespucc.ai White Paper
 
+### Legal Disclaimer
+
+	This white paper is provided solely for informational purposes to outline the features, goals, and mechanics of Vespucc.ai. It is not an offer to sell, a solicitation to buy, or a recommendation to purchase any security, token, or investment product. The information presented here should not be interpreted as financial, legal, or investment advice. Readers are urged to conduct their own thorough research and consult with qualified professionals before making any decisions based on this document.
+
+	The content of this white paper includes forward-looking statements about the anticipated development, functionality, and potential impact of Vespucc.ai, its underlying technology, and its token economy. These statements reflect current expectations and projections, which are inherently speculative and subject to numerous risks and uncertainties. Factors such as technological obstacles, market shifts, regulatory developments, and unexpected events could cause actual outcomes to differ significantly from those described. Vespucc.ai is under no obligation to update or revise these statements, and readers should avoid placing undue reliance on them.
+
+	The regulatory environment surrounding blockchain and artificial intelligence technologies remains dynamic and varies widely across jurisdictions. Vespucc.ai does not guarantee compliance with all existing or future laws and regulations in every region. It is the sole responsibility of users to ensure that their engagement with the platform and its token adheres to the legal requirements of their local jurisdiction. Vespucc.ai reserves the right to alter, limit, or terminate its services in specific areas as needed to comply with applicable legal standards.
+
+	The Vespucc.ai token is intended as a utility token to enable access to the platform’s AI agents and services, not as an investment vehicle, security, or financial instrument. Its value may fluctuate due to market dynamics, platform usage, or other variables, and there is a risk that it could lose some or all of its value. A deflationary mechanism, in which a portion of tokens used for services is permanently removed from circulation, is part of the token economy; however, this does not assure an increase in value. Users should carefully assess these risks and seek professional advice before acquiring or utilizing the token.
+
+	Vespucc.ai strives to implement robust security measures to safeguard its platform and users, but no system can be entirely free from risk. Potential vulnerabilities, including cyberattacks, technical malfunctions, or other breaches, could lead to the loss of data, tokens, or platform functionality. Vespucc.ai does not guarantee uninterrupted operation or absolute security and bears no liability for losses resulting from such incidents. Users are advised to take their own steps to protect their assets and information.
+
+	The platform integrates with various third-party services, such as blockchain networks and external tools. Vespucc.ai is not accountable for the performance, security, or dependability of these external services. Users engage with third-party integrations at their own risk, and Vespucc.ai disclaims responsibility for any issues that may arise from their use.
+
+	The AI agents on Vespucc.ai are engineered to deliver advanced capabilities across multiple domains, yet their performance, accuracy, and reliability cannot be guaranteed. Outputs may vary depending on input quality, context, or other factors, and users are encouraged to independently verify results, particularly for critical applications. Vespucc.ai is not liable for any consequences stemming from reliance on its AI agents.
+
+	All intellectual property associated with Vespucc.ai, including the Model Context Protocol (MCP), platform technology, and content, remains the exclusive property of Vespucc.ai and its licensors. Unauthorized use, reproduction, or distribution of these materials is strictly prohibited.
+
+	Due to legal and regulatory considerations, access to the Vespucc.ai platform and its token may be restricted or unavailable in certain jurisdictions. Users must confirm that their participation complies with local laws, and Vespucc.ai may limit or deny access to its services in regions where such access could violate regulations.
+
+	The information in this white paper is presented "as is," without any express or implied warranties, including those of accuracy, completeness, reliability, or suitability for any specific purpose. Vespucc.ai makes no assurances regarding the platform’s performance, the token’s value, or the realization of any outlined objectives. Readers accept that they rely on their own judgment and due diligence when assessing this information.
+
+	This white paper does not constitute financial, legal, or investment advice. It should not be viewed as a recommendation to buy, sell, or hold any tokens or securities. Vespucc.ai disclaims liability for any decisions made based on this document and strongly encourages readers to seek independent professional guidance.
 ## Executive Summary
 
 Vespucc.ai is a pioneering platform designed to revolutionize how users discover, access, and utilize AI agents. By leveraging the innovative Model Context Protocol (MCP), Vespucc.ai creates a unified, web-based ecosystem where diverse AI capabilities can be explored and deployed seamlessly without any local installation requirements. Our platform addresses the growing fragmentation in the AI landscape, providing a standardized gateway to cutting-edge artificial intelligence technology for users across technical proficiency levels.
