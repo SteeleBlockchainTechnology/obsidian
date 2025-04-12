@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Website.md",
+                "file": "Software/Website.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Website"
             }
+          },
+          {
+            "id": "0a789b4aa9b4e7e8",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documentation/White Paper.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "White Paper"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,10 +181,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fc10d040ffdc6181",
+  "active": "0a789b4aa9b4e7e8",
   "lastOpenFiles": [
-    "README.md",
-    "Website.md",
+    "Documentation/White Paper.md",
+    "~$ite Paper.pdf",
+    "Documentation/White Paper.pdf",
+    "Documentation/White paper notes.md",
+    "Software/Website.md",
+    "Documentation/White Paper.pdf",
+    "Software/README.md",
+    "Documentation",
+    "Software",
     "Welcome.md"
   ]
 }
